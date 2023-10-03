@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niteshpatel1
-- 👀 I’m interested in .Ai
-- 🌱 I’m currently learning Ai
+- 👀 I’m interested in  web development
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 6265036487
 
