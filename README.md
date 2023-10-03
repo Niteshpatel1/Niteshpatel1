@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niteshpatel
+- 👋 Hi, I’m @Nitesh patel
 - 👀 I’m interested in  web development
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
